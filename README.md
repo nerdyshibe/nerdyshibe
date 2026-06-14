@@ -1,12 +1,5 @@
 # Hey folks! I'm Fernando.
 
-## :zap: About me
-
-- I'm a very passionate programmer with a background in electrical engineering, now with more then 6 years of experience working as a **Fullstack Web Developer** mainly focused on **Ruby on Rails** and **JavaScript/TypeScript**.
-- My favorite hobbies are gaming, running, table tennis, biking and swimming.
-
-<br>
-
 ## :computer: My Fullstack Journey
 
 ### Frontend
@@ -37,24 +30,9 @@
 
 <br>
 
-## :bar_chart: Some Cool Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=NerdyShibe&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NerdyShibe&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
-</div>
+## :bar_chart: Cool Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NerdyShibe&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NerdyShibe&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
 </div>
-
-<br>
-
-## :telephone: Contact
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoepm1/)](https://www.linkedin.com/in/fernandoepm1/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.epm1@gmail.com)](mailto:fernando.epm1@gmail.com)
-
-Feel free to reach out via social media or e-mail and thanks for visiting!
-
-Happy coding 💕
