@@ -33,6 +33,6 @@
 ## :bar_chart: Cool Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NerdyShibe&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NerdyShibe&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyshibe&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nerdyshibe&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
 </div>
